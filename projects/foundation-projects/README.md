@@ -28,3 +28,10 @@ Only test systems you own or have explicit authorization to assess.
 - **[Foundation Project 01 — Linux Security Fundamentals](./linux-security-fundamentals/README.md)**: local permissions, least privilege, expected results, remediation and an [evidence template](./linux-security-fundamentals/REPORT-TEMPLATE.md). Only synthetic files; no high-end laptop or paid cloud environment needed.
 
 Other ideas remain proposed. Review [Student Support](../../student-support/README.md) if hardware or setup is a barrier.
+
+
+## New: HTTP Response Explorer
+
+**[Foundation Project 02 — HTTP Response Explorer](./http-response-explorer/README.md)** teaches HTTP status codes and headers using a loopback-only Python demo server. No paid cloud account, Kali installation, hypervisor or vulnerable target is required.
+
+Only Project 01 (Linux) and Project 02 (HTTP) should currently be described as published, runnable exercises. Other project ideas on this page remain proposals.

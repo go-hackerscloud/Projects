@@ -30,3 +30,15 @@ You do not need to purchase every certification listed in a roadmap.
 
 
 [Return to Learn with GHC](../README.md)
+
+
+## Match your goal to a preparation roadmap
+
+| Career goal | Suggested learning guides |
+| --- | --- |
+| Junior security analyst | [Security+](../certification-plan/security-plus/README.md) and [career transition](../guidance/career-transition-plan/README.md) |
+| Penetration tester | [CEH](../certification-plan/ceh/README.md), [OSCP](../certification-plan/oscp/README.md) and safe projects |
+| Cloud security engineer | [Cloud security](../certification-plan/cloud-security/README.md) and architecture practice |
+| Security architect | [CISSP](../certification-plan/cissp/README.md), risk and governance skills |
+
+Certification is only one part of development. Professional experience, interviews, communication and ethical judgment also matter.

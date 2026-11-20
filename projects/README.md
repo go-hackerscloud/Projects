@@ -39,3 +39,8 @@ Have an original educational project? Read [CONTRIBUTING.md](../CONTRIBUTING.md)
 **[Foundation Project 01 — Linux Security Fundamentals](./foundation-projects/linux-security-fundamentals/README.md)** is a reproducible beginner exercise using a local Linux terminal, synthetic files, and an evidence report. No premium laptop, cloud account or full Kali VM is required.
 
 Other project ideas remain planned. Learners can use the [report template](./foundation-projects/linux-security-fundamentals/REPORT-TEMPLATE.md) and explore [industry practice](../industry-practice/README.md) to connect training observations to professional assessments.
+
+
+## Another available beginner project
+
+**[Foundation Project 02 — HTTP Response Explorer](./foundation-projects/http-response-explorer/README.md)** uses a local Python server and `curl` to explain HTTP 200/404 responses and headers. It does not require a premium laptop or GHC membership.

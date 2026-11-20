@@ -32,3 +32,8 @@ Use this evidence chain: **concept → safe lab → observation → remediation 
 Explore [industry practice](../industry-practice/README.md) for professional security-assessment workflows. Never represent simulated lab work as employment or customer work.
 
 If budget or lab setup is your barrier, read [low-cost learning](../student-support/low-cost-learning/README.md), select a [career roadmap](../career-roadmaps/README.md), then use the [certification plan](../certification-plan/README.md).
+
+
+## Build a career transition plan
+
+**[Six-week career evidence plan](./career-transition-plan/README.md)** — for learners who have completed courses but need to demonstrate practical skills in an honest, professional way. Includes job-family selection, portfolio evidence, resume and LinkedIn preparation, and interview practice.
