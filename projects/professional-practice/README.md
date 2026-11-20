@@ -60,3 +60,10 @@ This series illustrates the structure of work relevant to [GoHackersCloud Cybers
 Continue with [Foundation](../../foundation/README.md), [Academy](../../academy/README.md), [GHC Labs](../../ghc-labs/README.md) where eligible, or [Career Guidance](../../guidance/README.md).
 
 [All projects](../README.md) · [Learn with GHC](../../README.md)
+
+
+## Turn the capstone into a reusable portfolio
+
+After Stage 05, use the [student portfolio toolkit](../../student-portfolio/README.md) to structure your final report, document evidence and self-assess with the [student checklist](../../student-portfolio/checklists/STUDENT-COMPLETION-CHECKLIST.md). Instructors can provide feedback using the [100-point rubric](../../student-portfolio/instructor/ASSESSMENT-RUBRIC.md).
+
+Template completion is educational progress, **not** proof of customer assessment experience or a third-party certification.
