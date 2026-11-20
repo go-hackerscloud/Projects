@@ -28,4 +28,23 @@ Only test systems you own or have explicit authorization to assess. Use the scop
 
 The real GHC lab platform, provisioning logic, worker configuration, access controls, and private exercise assets are **not** published in this promotional repository.
 
-[Return to Learning Hub](../README.md)
+
+## Why browser labs matter
+
+Learners may spend days installing Kali, hypervisors, vulnerable applications and virtual networks — or may not have a laptop powerful enough to run them simultaneously. Preconfigured hosted practice environments can reduce that burden for eligible learners.
+
+| Challenge | What the GHC model is designed to help with | What is still needed |
+| --- | --- | --- |
+| Limited RAM / storage | Heavy practice environments run remotely | Compatible browser and internet connection |
+| Kali/target version conflicts | Known lab configurations prepared for exercises | Follow the lesson's access requirements |
+| Confusing network wiring | Predefined isolated lab scenarios | Understand scope and basic networking |
+| No real-world context | Guided objectives and evidence-oriented learning | Study the explanations and write a report |
+
+These are intended advantages, not guarantees for every device, course or session.
+
+## Start safely
+
+Follow [lab access and troubleshooting](../student-support/lab-access/README.md), then use [the skills-to-services guide](../industry-practice/README.md) to practice professional reporting and remediation thinking. A lab does not grant permission to test external targets.
+
+
+[Return to Learn with GHC](../README.md)
