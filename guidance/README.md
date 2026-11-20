@@ -14,3 +14,21 @@ Pair these guides with [career roadmaps](../career-roadmaps/README.md), [project
 We do not guarantee placement, interview calls, or certification results.
 
 [Learning Hub home](../README.md)
+
+
+## What employers need beyond a certificate
+
+Learners often finish courses but struggle to explain hands-on work, demonstrate judgment, or present experience credibly.
+
+Use this evidence chain: **concept → safe lab → observation → remediation → verified report → interview explanation**.
+
+| Learning example | Portfolio evidence | Interview discussion |
+| --- | --- | --- |
+| Linux file permissions | Synthetic hardening review | Least privilege and business context |
+| Web/API exercise | Sanitized findings and remediation | Impact, validation and scope |
+| Cloud IAM exercise | Access review matrix | Identity, threat exposure and trade-offs |
+| Incident log exercise | Timeline using synthetic events | Investigation and escalation |
+
+Explore [industry practice](../industry-practice/README.md) for professional security-assessment workflows. Never represent simulated lab work as employment or customer work.
+
+If budget or lab setup is your barrier, read [low-cost learning](../student-support/low-cost-learning/README.md), select a [career roadmap](../career-roadmaps/README.md), then use the [certification plan](../certification-plan/README.md).

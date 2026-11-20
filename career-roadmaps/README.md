@@ -14,4 +14,19 @@ These are educational roadmaps, not guarantees of employment or certification.
 
 Continue with [Foundation](../foundation/README.md), [Academy](../academy/README.md), and [Labs](../ghc-labs/README.md).
 
-[Return to Learning Hub](../README.md)
+
+## Which direction should I choose?
+
+Choose **one target role** based on your interests, skills and local job requirements, then work backwards through fundamentals, practical projects and credential prerequisites.
+
+**Sample sequence:** Foundation → applied Academy lessons → authorized lab evidence → relevant certification plan → portfolio / interview preparation.
+
+- [Getting started](../getting-started/README.md)
+- [Certification planning](../certification-plan/README.md)
+- [From learning labs to workplace services](../industry-practice/README.md)
+- [Resume, LinkedIn and interview help](../guidance/README.md)
+
+You do not need to purchase every certification listed in a roadmap.
+
+
+[Return to Learn with GHC](../README.md)

@@ -23,4 +23,20 @@
 
 Some Academy content and lab features require enrollment and authentication. This repository is a public learning guide, not an Academy content mirror.
 
-[Return to Learning Hub](../README.md)
+
+## What if your laptop cannot run multiple VMs?
+
+You can start with Foundation in a browser. GHC's hosted lab model aims to reduce local setup overhead by preparing authorized practice environments in advance. Access to particular labs still depends on enrollment, browser compatibility and connectivity.
+
+Read [the low-cost learning guide](../student-support/low-cost-learning/README.md) and [lab access instructions](../student-support/lab-access/README.md).
+
+## Turn learning into workplace reasoning
+
+For each Academy lab, document **objective → authorized scope → observations → risk → remediation → retest**. Compare that workflow with the educational [security-services mapping](../industry-practice/README.md). Lab simulations are not customer engagements.
+
+## Certification and career planning
+
+Choose a destination role, map your gaps to the current exam objectives and practice consistently. Use the [certification preparation guide](../certification-plan/README.md) and [career guidance](../guidance/README.md); third-party certifications and employment are not guaranteed.
+
+
+[Return to Learn with GHC](../README.md)

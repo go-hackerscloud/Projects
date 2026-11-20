@@ -32,3 +32,10 @@ Projects will be linked from the Academy and Foundation overview pages when thei
 Have an original educational project? Read [CONTRIBUTING.md](../CONTRIBUTING.md) and propose a scoped contribution before submitting it.
 
 [Learning Hub home](../README.md)
+
+
+## First published project
+
+**[Foundation Project 01 — Linux Security Fundamentals](./foundation-projects/linux-security-fundamentals/README.md)** is a reproducible beginner exercise using a local Linux terminal, synthetic files, and an evidence report. No premium laptop, cloud account or full Kali VM is required.
+
+Other project ideas remain planned. Learners can use the [report template](./foundation-projects/linux-security-fundamentals/REPORT-TEMPLATE.md) and explore [industry practice](../industry-practice/README.md) to connect training observations to professional assessments.
