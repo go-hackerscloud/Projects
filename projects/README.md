@@ -1,31 +1,34 @@
 # Practical Projects — Learn with GHC
 
-Build demonstrable skills with small, reproducible projects. Start with foundational concepts, progress to applied Academy-aligned exercises, and share original work through the community.
+Develop demonstrable skills through original and reproducible projects, from entry-level foundational practice to Academy-aligned capstones.
 
-| Path | Who it helps | Start |
+## Project collections
+
+| Collection | Purpose | Status |
 | --- | --- | --- |
-| [Foundation projects](./foundation-projects/README.md) | New learners exploring Linux, networking, Python and cloud fundamentals | Beginner |
-| [Academy projects](./academy-projects/README.md) | Learners applying structured Academy lessons | Intermediate |
-| [Community projects](./community-projects/README.md) | Contributors proposing original learning projects | Various |
+| [Foundation projects](./foundation-projects/README.md) | Linux, networking, scripting and security fundamentals | Project ideas published; implementations planned |
+| [Academy projects](./academy-projects/README.md) | Applied cybersecurity, cloud, web and API security projects | Project ideas published; implementations planned |
+| [Community projects](./community-projects/README.md) | Original projects proposed by learners and contributors | Contribution guidance available |
 
-## Existing project library
+The earlier five project folders have been retired. Their previous implementations are no longer part of this repository; we do not link to those outdated exercises.
 
-These projects are already part of this repository. They remain in their original directories to preserve links, source history, and working examples.
+## Proposed reusable project format
 
-| Project | Existing path | Suggested pathway |
-| --- | --- | --- |
-| SSH Hardening Lab | [01-SSH-Hardening-Lab](../01-SSH-Hardening-Lab/) | Foundation → Linux security |
-| AWS Two-Tier Web App | [02-AWS-2Tier-Web-App](../02-AWS-2Tier-Web-App/) | Academy → cloud architecture |
-| Python Network Scanner | [03-Network-Scanner-Python](../03-Network-Scanner-Python/) | Foundation → Python/networking |
-| AI Resume Summary CLI | [04-AI-Resume-Summary-CLI](../04-AI-Resume-Summary-CLI/) | Guidance → resume and AI projects |
-| Serverless CI/CD | [05-Serverless-CI-CD](../05-Serverless-CI-CD/) | Academy → cloud automation |
+Each new published project should contain:
 
-The pathway labels are suggested organization, not claims of official Academy syllabus mapping.
+1. **Objective and learning outcomes** — what the student will be able to demonstrate.
+2. **Prerequisites** — required foundation knowledge and tools.
+3. **Architecture** — an annotated diagram or simple explanation.
+4. **Authorized environment** — isolated demo, synthetic data, or a system you own.
+5. **Guided steps** — commands with purpose, expected observations and troubleshooting.
+6. **Evidence** — safe screenshots, sanitized outputs and a short report.
+7. **Assessment** — questions or clear completion criteria.
+8. **Cleanup** — how to remove resources and avoid unnecessary cloud charges.
 
-## Suggested project report
+Projects will be linked from the Academy and Foundation overview pages when their material is actually published and reviewed. There is no promise of unrestricted access to the separate paid GHC Labs runtime.
 
-**Goal → prerequisites → architecture → steps → evidence → observations → lessons learned → cleanup**.
+## Contribution
 
-Perform security tests only on systems you own or are explicitly authorized to assess.
+Have an original educational project? Read [CONTRIBUTING.md](../CONTRIBUTING.md) and propose a scoped contribution before submitting it.
 
 [Learning Hub home](../README.md)

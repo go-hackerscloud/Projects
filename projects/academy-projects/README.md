@@ -1,21 +1,22 @@
 # Academy-Aligned Projects
 
-Apply your structured learning through portfolio-ready project work.
+Apply structured GoHackersCloud Academy learning through realistic security and cloud projects.
 
-## Suggested projects
+## Proposed project pathways
 
-| Area | Suggested project | Supporting existing example |
+| Area | Suggested project | Intended outcome |
 | --- | --- | --- |
-| Cloud architecture | Build and explain a two-tier application in an authorized cloud sandbox | [AWS Two-Tier Web App](../../02-AWS-2Tier-Web-App/) |
-| Cloud DevOps | Document a serverless CI/CD workflow, controls, and rollback | [Serverless CI/CD](../../05-Serverless-CI-CD/) |
-| Web security | Create a threat model and remediation report for a deliberately vulnerable demo | Planned |
-| API security | Document an authorized API assessment and security recommendations | Planned |
-| Container security | Inspect a local container image and report configuration risks | Planned |
+| AWS cloud architecture | Design and explain a secure two-tier web application | Architecture diagram and control decisions |
+| Cloud DevSecOps | Review a sample serverless CI/CD workflow | Threat model and secure delivery checklist |
+| Web application security | Assess a deliberately vulnerable local demo | Reproducible findings and remediation |
+| API security | Investigate a synthetic API environment | Evidence-led assessment report |
+| Container security | Inspect a local container and image configuration | Security review and recommendations |
+| Identity and access management | Design least-privilege access for a fictional organization | IAM decision matrix |
 
-These are **suggested project tracks**, not a claim that all projects or their Academy course mappings are already published.
+**Publication status:** These are proposed original projects. No runnable project implementation is claimed to be available yet, and mappings to specific Academy lessons require validation before publication.
 
-## Portfolio standard
+## Project quality standard
 
-Each project should contain a short executive summary, architecture diagram, evidence from a permitted environment, findings, remediation or improvements, and limitations.
+Projects should contain conceptual explanations, architecture diagrams, controlled environments, copy-ready commands where appropriate, expected results, troubleshooting, evidence, and a final workplace-style report.
 
 [Academy overview](../../academy/README.md) · [All projects](../README.md)
