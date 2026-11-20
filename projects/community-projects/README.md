@@ -24,3 +24,8 @@ No third-party copyrighted course materials, leaked exam questions, production c
 Follow the [Community Contributions guide](../../community/contribute/README.md), use the [Portfolio Toolkit](../../student-portfolio/README.md) to prepare your project, and ensure all practice is permitted and all screenshots are sanitized.
 
 You may separately propose a [Student Story](../../community/student-stories/README.md) about your experience. Being featured requires consent and editorial verification; a merged project does not automatically become a public testimonial.
+
+
+## Showcase your own project
+
+The [GHC Community Showcase](../../community/showcase/README.md) includes a submission workflow, an original project template and a [review checklist](../../community/showcase/REVIEW-CHECKLIST.md). Use this route only for safe, already-public work you have permission to share.
