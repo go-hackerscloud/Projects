@@ -28,4 +28,14 @@ These are original illustrative questions, **not** official certification exam q
 
 Explore the [course catalog](https://www.gohackerscloud.org/courses) for current assessment and training offerings. A dedicated verified Test Engine URL has not been established here; do not treat this folder as a live exam portal.
 
-[Return to Learning Hub](../README.md)
+
+## Learn from incorrect answers
+
+For every missed question, record: **domain, why your answer was wrong, correct reasoning, Foundation or Academy reference, and retest date**. Review the underlying concept instead of memorizing question wording.
+
+**Sample readiness approach:** use short topic checks during learning, a timed mixed-topic session after revising, and a final gap review before deciding whether to book a vendor exam. This is a study method, not a pass predictor.
+
+For sequencing, prerequisites and official vendor eligibility checks, see [Certification Plan](../certification-plan/README.md). Never use exam dumps or copyrighted unauthorized question banks.
+
+
+[Return to Learn with GHC](../README.md)
