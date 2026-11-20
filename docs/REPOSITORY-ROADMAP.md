@@ -24,3 +24,12 @@ After the Learning Hub pull request is approved and merged:
 4. Check public visibility and ensure no sensitive assets were introduced.
 
 The rename is an administrative change separate from this documentation PR.
+
+
+## Current status — 20 November 2026
+
+The public hub is now **`learn-with-ghc`**. The previous `Projects` repository's five outdated sample folders were retired and must not be linked as active exercises.
+
+We prioritize student accessibility, public learning pathways, guided project evidence and industry-relevant explanations. Foundation Project 01 — Linux Security Fundamentals is the first completed original local exercise introduced by this documentation branch.
+
+The specialized repositories listed above are **proposals**, not available projects. Continue keeping authentication, worker infrastructure, production lab provisioning and paid course materials private.
