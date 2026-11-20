@@ -21,3 +21,10 @@ For each completed exercise, summarize the objective, scope, exact environment, 
 Only test systems you own or have explicit authorization to assess.
 
 [All projects](../README.md) · [Foundation overview](../../foundation/README.md)
+
+
+## Available now
+
+- **[Foundation Project 01 — Linux Security Fundamentals](./linux-security-fundamentals/README.md)**: local permissions, least privilege, expected results, remediation and an [evidence template](./linux-security-fundamentals/REPORT-TEMPLATE.md). Only synthetic files; no high-end laptop or paid cloud environment needed.
+
+Other ideas remain proposed. Review [Student Support](../../student-support/README.md) if hardware or setup is a barrier.
