@@ -40,3 +40,8 @@ Choose a destination role, map your gaps to the current exam objectives and prac
 
 
 [Return to Learn with GHC](../README.md)
+
+
+## Portfolio and instructor resources
+
+Learners can use the public [portfolio toolkit](../student-portfolio/README.md) to capture safe evidence and communicate outcomes. Instructors can use the [facilitation guide](../student-portfolio/instructor/FACILITATION-GUIDE.md) and [assessment rubric](../student-portfolio/instructor/ASSESSMENT-RUBRIC.md) for public project activities. These are optional public resources, not a replacement for any official Academy course assessment.

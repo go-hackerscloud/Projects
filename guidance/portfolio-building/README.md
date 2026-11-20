@@ -23,3 +23,8 @@ Never publish live targets, exploit credentials, internal IP inventories, custom
 ## Complete portfolio-ready capstone
 
 The [GHC Professional Practice Series](../../projects/professional-practice/README.md) includes a five-stage fictional assessment and report template. Its [capstone](../../projects/professional-practice/05-capstone-report/README.md) helps you demonstrate evidence, prioritization, remediation and responsible communication. Always label the work **synthetic training**, not professional client experience.
+
+
+## Copy-ready portfolio templates
+
+Start with the [project README template](../../student-portfolio/templates/PROJECT-README-TEMPLATE.md), then use the [evidence register](../../student-portfolio/templates/EVIDENCE-REGISTER.md) and [student checklist](../../student-portfolio/checklists/STUDENT-COMPLETION-CHECKLIST.md). The [toolkit index](../../student-portfolio/README.md) includes instructor guidance and a transparent scoring rubric.
