@@ -45,3 +45,8 @@ This accurately communicates skill and scope without claiming nonexistent work e
 ## Share your progress voluntarily
 
 If you want to tell other learners how you approached a project, review the [Student Stories submission guidance](../community/student-stories/README.md). Keep personal details and consent evidence out of public GitHub issues and pull requests. An approved portfolio does not automatically authorize its use in advertisements or testimonials.
+
+
+## Submit your completed project
+
+Once your portfolio is safely published, you can propose it for the [Community Showcase](../community/showcase/README.md). Check the [submission guidelines](../community/showcase/SUBMIT-A-PROJECT.md) and understand that editor approval and safe public attribution are required before a feature appears.
