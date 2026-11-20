@@ -16,4 +16,14 @@ Read [CONTRIBUTING.md](../CONTRIBUTING.md) before proposing changes.
 
 Do not post credentials, personal information, live exploit targets, paid course material, or unauthorized scan results.
 
-[Return to Learning Hub](../README.md)
+
+## Our community mission
+
+GoHackersCloud reports having trained **10,000+ learners worldwide**. This is a GoHackersCloud-reported reach milestone, not an independently audited outcome, job placement count or external certification total.
+
+We aim to make practice-based learning more accessible to students who face expensive hardware, difficult lab setup and uncertainty about professional pathways. The community can support learning through shared explanations, original educational projects and responsible collaboration.
+
+Start with [the student support hub](../student-support/README.md), [Foundation](../foundation/README.md), or [Career Guidance](../guidance/README.md). Share what you learned in your own words; do not post paid solutions or confidential evidence.
+
+
+[Return to Learn with GHC](../README.md)
