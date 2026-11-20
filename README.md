@@ -137,3 +137,10 @@ These are independent learning resources and original exercises, not official ce
 | AWS Cloud Security | [Offline IAM Policy Review](./projects/certification-practice/cloud-iam-policy-review/README.md) | Least-privilege access assessment |
 
 These free public projects illustrate professional workflows but do not replace complete paid courses, authorized hands-on labs, or official vendor exam materials.
+
+
+## GHC Professional Practice Series
+
+Want to see how cybersecurity assessments are organized in professional teams? Follow the new **[five-stage Professional Practice Series](./projects/professional-practice/README.md)**: scope → evidence → findings → remediation → executive report.
+
+Complete a fictional company assessment using synthetic evidence, copy-ready report templates and a final portfolio rubric. No premium laptop, customer access or cloud account required. The work is educational and **not** a real GHC client engagement.
