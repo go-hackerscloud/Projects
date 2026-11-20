@@ -37,3 +37,8 @@ If budget or lab setup is your barrier, read [low-cost learning](../student-supp
 ## Build a career transition plan
 
 **[Six-week career evidence plan](./career-transition-plan/README.md)** — for learners who have completed courses but need to demonstrate practical skills in an honest, professional way. Includes job-family selection, portfolio evidence, resume and LinkedIn preparation, and interview practice.
+
+
+## Ready-to-use student portfolio resources
+
+Use the [student portfolio toolkit](../student-portfolio/README.md) for report templates, evidence registers, project completion checks and instructor feedback criteria. Pair it with a real project or explicitly labeled synthetic exercise; do not invent job experience.
