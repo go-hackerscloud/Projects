@@ -27,3 +27,12 @@ Start with [the student support hub](../student-support/README.md), [Foundation]
 
 
 [Return to Learn with GHC](../README.md)
+
+
+## Share learning and contribute
+
+- [Student Stories](./student-stories/README.md) — submission guidelines for voluntary learning journeys and original project showcases. No individual testimonials are published until reviewed and consented.
+- [Community Contributions](./contribute/README.md) — propose corrections, beginner projects and accessibility improvements.
+- [Student Portfolio Toolkit](../student-portfolio/README.md) — create a clear, privacy-safe project report before sharing.
+
+**Before publishing anyone's story:** read the [publication policy](./student-stories/PUBLICATION-POLICY.md). Public GitHub pull requests are **not** a suitable collection channel for private consent records, identity details or verification documents.
