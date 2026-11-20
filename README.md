@@ -163,3 +163,10 @@ All resources are editable Markdown; no paid software or additional hardware is 
 Discover how learners can share genuine progress through [GHC Student Stories](./community/student-stories/README.md) and submit original educational projects through [Community Contributions](./community/contribute/README.md).
 
 Stories will be published only with specific consent, editorial review and evidence-based claims. **No individual student testimonials are published in this section yet.**
+
+
+## GHC Community Showcase
+
+Have an original, safe cybersecurity or cloud-learning project? The [GHC Community Showcase](./community/showcase/README.md) explains how to propose your work, document evidence, and request editorial review. Begin with the [project submission guide](./community/showcase/SUBMIT-A-PROJECT.md).
+
+**Status:** accepting proposals after the showcase launch is reviewed; no individual community projects or testimonials have been featured yet. Submission and publication are voluntary, and personal stories follow a separate consent process.
