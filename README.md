@@ -126,3 +126,14 @@ Don't purchase every certification at once. Choose a target role, fill foundatio
 - [Foundation Project 02 — HTTP Response Explorer](./projects/foundation-projects/http-response-explorer/README.md)
 
 These are independent learning resources and original exercises, not official certification curricula or exam passes.
+
+
+## Practical certification projects — begin without a complex lab setup
+
+| Learning direction | Public practice project | What you'll produce |
+| --- | --- | --- |
+| CEH / Ethical Hacking | [Local Service Observation](./projects/certification-practice/ceh-local-service-observation/README.md) | Authorized HTTP observation and evidence report |
+| OSCP / Penetration Testing | [Synthetic Security Assessment](./projects/certification-practice/oscp-synthetic-assessment/README.md) | Findings analysis, remediation and retest plan |
+| AWS Cloud Security | [Offline IAM Policy Review](./projects/certification-practice/cloud-iam-policy-review/README.md) | Least-privilege access assessment |
+
+These free public projects illustrate professional workflows but do not replace complete paid courses, authorized hands-on labs, or official vendor exam materials.
