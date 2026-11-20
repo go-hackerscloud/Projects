@@ -12,7 +12,7 @@ Build confidence through small, practical exercises that reinforce [GHC Foundati
 | Linux log analysis | Identify events and explain their sequence | Synthetic log fixture |
 | Cloud security architecture sketch | Describe a two-tier system and security boundaries | Diagramming tool; no paid cloud account required |
 
-**Publication status:** These are a proposed curriculum, not runnable projects. Each will receive its own guide, commands and reviewed assets when completed.
+**Publication status:** Linux Security Fundamentals is now available as a runnable beginner project. The other listed ideas are still proposals awaiting complete guides and review.
 
 ## How a learner should submit evidence
 
