@@ -41,3 +41,8 @@
 Certification names belong to their respective owners. GHC's materials are independent learning resources, not official vendor training or a promise of exam success.
 
 [All certification roadmaps](../README.md) · [Learn with GHC](../../README.md)
+
+
+## Start with an offline policy review
+
+Try [Cloud Security Practice 01 — AWS IAM Policy Review](../../projects/certification-practice/cloud-iam-policy-review/README.md). Analyze a fictional IAM policy and write a least-privilege recommendation without creating an AWS account or incurring cloud charges.

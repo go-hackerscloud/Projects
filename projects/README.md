@@ -44,3 +44,14 @@ Other project ideas remain planned. Learners can use the [report template](./fou
 ## Another available beginner project
 
 **[Foundation Project 02 — HTTP Response Explorer](./foundation-projects/http-response-explorer/README.md)** uses a local Python server and `curl` to explain HTTP 200/404 responses and headers. It does not require a premium laptop or GHC membership.
+
+
+## Certification-aligned practical projects
+
+Three new **original, beginner-accessible training exercises** are available in the [Certification Practice collection](./certification-practice/README.md):
+
+- [CEH: local service observation](./certification-practice/ceh-local-service-observation/README.md)
+- [OSCP: synthetic assessment methodology](./certification-practice/oscp-synthetic-assessment/README.md)
+- [Cloud Security: offline AWS IAM review](./certification-practice/cloud-iam-policy-review/README.md)
+
+Each includes objectives, safe scope, step-by-step instructions, expected observations or supplied evidence, workplace context, and a [report template](./certification-practice/ASSESSMENT-REPORT-TEMPLATE.md). These are educational exercises, not official certification exam simulations.

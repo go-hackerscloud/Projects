@@ -57,3 +57,10 @@ For advanced or experience-based certifications, significantly more preparation 
 | Cloud Security | Cloud fundamentals, IAM and security architecture | [Cloud Security roadmap](./cloud-security/README.md) |
 
 These are independent, non-official learning roadmaps. Exam provider rules and objectives take precedence over this material. Review eligibility and total exam costs before spending money.
+
+
+## Practice without expensive hardware
+
+The [Certification Practice projects](../projects/certification-practice/README.md) offer simple educational exercises for CEH, OSCP-oriented assessment reporting, and cloud IAM policy review. Start with permitted local or synthetic exercises before investing in expensive hardware or cloud resources.
+
+A single exercise does **not** establish readiness for a certification exam.

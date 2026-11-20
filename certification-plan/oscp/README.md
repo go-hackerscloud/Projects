@@ -41,3 +41,8 @@
 Certification names belong to their respective owners. GHC's materials are independent learning resources, not official vendor training or a promise of exam success.
 
 [All certification roadmaps](../README.md) · [Learn with GHC](../../README.md)
+
+
+## Start with a structured reporting exercise
+
+Try [OSCP-Oriented Practice 01 — Synthetic Assessment](../../projects/certification-practice/oscp-synthetic-assessment/README.md). It focuses on scope, finding hypotheses, evidence quality and remediation planning; it is not an OffSec exam simulator.
