@@ -62,3 +62,8 @@ Each includes objectives, safe scope, step-by-step instructions, expected observ
 The **[GHC Professional Practice Series](./professional-practice/README.md)** connects five deliverables into one synthetic assessment: engagement planning, evidence collection, findings, remediation and retesting, and a final portfolio report. Includes [copy-ready templates](./professional-practice/templates/README.md).
 
 This complements the [CEH/OSCP/Cloud certification practice collection](./certification-practice/README.md) and is designed to teach professional reasoning without accessing real customer systems.
+
+
+## Make your completed project portfolio-ready
+
+Download or copy the editable Markdown [Student Portfolio & Instructor Toolkit](../student-portfolio/README.md) to document scope, architecture, observed outcomes, evidence, remediation and lessons learned. The [completion checklist](../student-portfolio/checklists/STUDENT-COMPLETION-CHECKLIST.md) helps avoid missing steps or publishing sensitive data.
