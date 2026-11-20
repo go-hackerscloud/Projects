@@ -114,3 +114,15 @@ We plan to publish specialized learning showcases over time, including GHC Labs,
 [Official website](https://gohackerscloud.com/) · [Courses](https://www.gohackerscloud.org/courses) · [Community](https://learn.gohackerscloud.com/)
 
 </div>
+
+
+## Certification and career pathways
+
+Don't purchase every certification at once. Choose a target role, fill foundational gaps, practice safely and document the work.
+
+- [CEH](./certification-plan/ceh/README.md) · [OSCP](./certification-plan/oscp/README.md) · [Security+](./certification-plan/security-plus/README.md) · [CISSP](./certification-plan/cissp/README.md) · [Cloud Security](./certification-plan/cloud-security/README.md)
+- [Career transition and portfolio evidence](./guidance/career-transition-plan/README.md)
+- [Foundation Project 01 — Linux Security Fundamentals](./projects/foundation-projects/linux-security-fundamentals/README.md)
+- [Foundation Project 02 — HTTP Response Explorer](./projects/foundation-projects/http-response-explorer/README.md)
+
+These are independent learning resources and original exercises, not official certification curricula or exam passes.
