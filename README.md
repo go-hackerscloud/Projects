@@ -156,3 +156,10 @@ Use the new **[GHC Student Portfolio Toolkit](./student-portfolio/README.md)** t
 - [Instructor scoring rubric](./student-portfolio/instructor/ASSESSMENT-RUBRIC.md)
 
 All resources are editable Markdown; no paid software or additional hardware is needed to complete the templates.
+
+
+## Student stories and community contributions
+
+Discover how learners can share genuine progress through [GHC Student Stories](./community/student-stories/README.md) and submit original educational projects through [Community Contributions](./community/contribute/README.md).
+
+Stories will be published only with specific consent, editorial review and evidence-based claims. **No individual student testimonials are published in this section yet.**
