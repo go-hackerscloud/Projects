@@ -55,3 +55,10 @@ Three new **original, beginner-accessible training exercises** are available in 
 - [Cloud Security: offline AWS IAM review](./certification-practice/cloud-iam-policy-review/README.md)
 
 Each includes objectives, safe scope, step-by-step instructions, expected observations or supplied evidence, workplace context, and a [report template](./certification-practice/ASSESSMENT-REPORT-TEMPLATE.md). These are educational exercises, not official certification exam simulations.
+
+
+## Professional Practice Series — workplace-style reporting
+
+The **[GHC Professional Practice Series](./professional-practice/README.md)** connects five deliverables into one synthetic assessment: engagement planning, evidence collection, findings, remediation and retesting, and a final portfolio report. Includes [copy-ready templates](./professional-practice/templates/README.md).
+
+This complements the [CEH/OSCP/Cloud certification practice collection](./certification-practice/README.md) and is designed to teach professional reasoning without accessing real customer systems.
