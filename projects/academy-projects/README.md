@@ -29,3 +29,8 @@ The [certification practice collection](../certification-practice/README.md) now
 These projects are **thematically aligned** with cybersecurity practice. They are not verified mappings to specific paid Academy lessons and do not claim to replace GHC Labs.
 
 Continue with [CEH](../certification-practice/ceh-local-service-observation/README.md), [OSCP methodology](../certification-practice/oscp-synthetic-assessment/README.md), or [Cloud IAM](../certification-practice/cloud-iam-policy-review/README.md).
+
+
+## Professional reporting pathway
+
+Beyond individual labs, students can practice a [five-stage fictional assessment workflow](../professional-practice/README.md): authorization, evidence, findings, remediation, retesting and reporting. This publicly available work is educational and has not been mapped to any private Academy lesson.

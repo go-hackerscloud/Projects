@@ -18,3 +18,8 @@ Start with [existing hands-on projects](../../projects/README.md), choose two to
 Never publish live targets, exploit credentials, internal IP inventories, customer artifacts, or proprietary course content.
 
 [Career Guidance](../README.md)
+
+
+## Complete portfolio-ready capstone
+
+The [GHC Professional Practice Series](../../projects/professional-practice/README.md) includes a five-stage fictional assessment and report template. Its [capstone](../../projects/professional-practice/05-capstone-report/README.md) helps you demonstrate evidence, prioritization, remediation and responsible communication. Always label the work **synthetic training**, not professional client experience.
