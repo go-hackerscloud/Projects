@@ -30,3 +30,8 @@ Never contribute exam dumps, paid lesson copies, production credentials, custome
 A merged contribution may be linked as a **public contribution** if the author chooses public attribution. Merging a PR is not an external certification or proof of employment. Do not promise badges or certificates until an actual issuance policy and mechanism exists.
 
 [Community](../README.md) · [Learn with GHC](../../README.md)
+
+
+## Propose work for the Community Showcase
+
+If you already have an original public project, follow the [GHC Community Showcase submission instructions](../showcase/SUBMIT-A-PROJECT.md). This is a proposal and review workflow, not an automatically published testimonial or certificate.
