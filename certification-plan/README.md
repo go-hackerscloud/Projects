@@ -44,3 +44,16 @@ For advanced or experience-based certifications, significantly more preparation 
 **GHC training does not award or guarantee third-party certifications.** Exam bodies control certification and licensing.
 
 [Courses](../courses/README.md) · [Career roadmaps](../career-roadmaps/README.md) · [Learning Hub](../README.md)
+
+
+## Dedicated study guides
+
+| Track | Appropriate starting point | Open guide |
+| --- | --- | --- |
+| CEH | Networking, security basics and ethical authorization | [CEH roadmap](./ceh/README.md) |
+| OSCP / OSCP+ | Practical Linux, web, systems and network skills | [OSCP roadmap](./oscp/README.md) |
+| CompTIA Security+ | General IT and cybersecurity foundations | [Security+ roadmap](./security-plus/README.md) |
+| CISSP | Security governance, design and relevant professional experience | [CISSP roadmap](./cissp/README.md) |
+| Cloud Security | Cloud fundamentals, IAM and security architecture | [Cloud Security roadmap](./cloud-security/README.md) |
+
+These are independent, non-official learning roadmaps. Exam provider rules and objectives take precedence over this material. Review eligibility and total exam costs before spending money.
