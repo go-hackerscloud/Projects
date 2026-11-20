@@ -27,6 +27,6 @@ Use that example only if it reflects work you actually completed. Never invent e
 - Include links that resolve and do not expose confidential data.
 - Proofread and tailor the summary for each application.
 
-Try the repository's [AI Resume Summary CLI](../../04-AI-Resume-Summary-CLI/) as an experimental portfolio project, not as a verified hiring or ATS-scoring system.
+For a technical portfolio, document a real project you completed using the [portfolio building guide](../portfolio-building/README.md). Avoid claiming ATS scores or hiring outcomes that have not been independently validated.
 
 [Career Guidance](../README.md)
