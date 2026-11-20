@@ -144,3 +144,15 @@ These free public projects illustrate professional workflows but do not replace 
 Want to see how cybersecurity assessments are organized in professional teams? Follow the new **[five-stage Professional Practice Series](./projects/professional-practice/README.md)**: scope → evidence → findings → remediation → executive report.
 
 Complete a fictional company assessment using synthetic evidence, copy-ready report templates and a final portfolio rubric. No premium laptop, customer access or cloud account required. The work is educational and **not** a real GHC client engagement.
+
+
+## Student portfolio and instructor toolkit
+
+Use the new **[GHC Student Portfolio Toolkit](./student-portfolio/README.md)** to turn approved lab and synthetic practice exercises into professional-looking, truthful project documentation.
+
+- [Project README template](./student-portfolio/templates/PROJECT-README-TEMPLATE.md)
+- [Security assessment report template](./student-portfolio/templates/SECURITY-ASSESSMENT-REPORT.md)
+- [Student completion checklist](./student-portfolio/checklists/STUDENT-COMPLETION-CHECKLIST.md)
+- [Instructor scoring rubric](./student-portfolio/instructor/ASSESSMENT-RUBRIC.md)
+
+All resources are editable Markdown; no paid software or additional hardware is needed to complete the templates.
