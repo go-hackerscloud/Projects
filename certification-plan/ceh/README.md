@@ -40,3 +40,8 @@
 Certification names belong to their respective owners. GHC's materials are independent learning resources, not official vendor training or a promise of exam success.
 
 [All certification roadmaps](../README.md) · [Learn with GHC](../../README.md)
+
+
+## Start with a safe practical exercise
+
+Try [CEH Practice 01 — Local Service Observation](../../projects/certification-practice/ceh-local-service-observation/README.md), which uses an authorized localhost HTTP service to teach evidence collection and assessment communication.
