@@ -55,3 +55,8 @@ These are illustrative links to industry practices; specific services and eligib
 Employers and clients care not only about commands, but also about scope, ethics, risk, communication, evidence, reproducibility and retest quality.
 
 [Career guidance](../guidance/README.md) · [Projects](../projects/README.md) · [Academy](../academy/README.md)
+
+
+## Work through a complete fictional engagement
+
+Use the [GHC Professional Practice Series](../projects/professional-practice/README.md) to prepare a scope document, traceable evidence register, findings, remediation and retest plan, and an executive report for a synthetic scenario. The stages mirror **workflow concepts**, not actual GHC customer work.
