@@ -1,0 +1,73 @@
+name: Community Project Proposal
+description: Propose an original PUBLIC and SANITIZED learning project for GHC Community Showcase.
+title: "[Community Project] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share only information you are comfortable making public. DO NOT submit personal contact details, private consent records, credentials, customer data, private lab URLs, unauthorized testing results, or paid course solutions.
+        Submitting a proposal does not guarantee showcase publication or professional certification.
+  - type: input
+    id: project-title
+    attributes:
+      label: Project title
+      description: Brief non-sensitive title.
+      placeholder: Offline IAM least-privilege review
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Learning category
+      options:
+        - Foundation
+        - Ethical hacking / Pentesting
+        - Cloud security
+        - Professional practice
+        - Career portfolio
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: project-url
+    attributes:
+      label: Public project URL
+      description: Only link to your already-public, sanitized educational work.
+      placeholder: https://github.com/username/example-project
+    validations:
+      required: true
+  - type: textarea
+    id: learning-goal
+    attributes:
+      label: Learning objective and demonstrated result
+      description: Explain what you actually learned or observed, without implying a customer engagement.
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Exercise environment
+      options:
+        - Synthetic evidence only
+        - Localhost / device I own
+        - Explicitly authorized training lab
+        - Other approved educational environment
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations and evidence
+      description: Summarize what was NOT verified. Do not paste secrets, private evidence or identifying records.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Publication safety acknowledgment
+      options:
+        - label: I have rights to share the project linked above and it does not contain secrets, personal records or unauthorized assessment results.
+          required: true
+        - label: I understand the issue is public, and showcase publication requires separate review and explicit approval of the final public text.
+          required: true
