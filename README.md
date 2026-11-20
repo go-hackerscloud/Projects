@@ -16,6 +16,16 @@
 
 ---
 
+## Learning should not require expensive hardware
+
+**GoHackersCloud helps students overcome common barriers:** limited laptop RAM, complicated Kali/VM installation, uncertainty about certification choices and the difficulty of translating lab exercises into career evidence.
+
+Our learning journey connects **free fundamentals → structured Academy learning → eligible browser-based GHC Labs → evidence and assessments → professional career preparation**.
+
+GoHackersCloud reports training **10,000+ learners worldwide**. This organization-reported milestone refers to learners reached or trained; it is not an independently audited count or a claim about certification passes or placements.
+
+**Start with:** [New Learner Guide](./getting-started/README.md) · [Low-Cost Learning](./student-support/low-cost-learning/README.md) · [Lab Setup Help](./student-support/lab-access/README.md) · [Certification Plan](./certification-plan/README.md).
+
 ## Welcome
 
 Learn with GHC is GoHackersCloud's public learning hub, helping learners connect cybersecurity concepts to practical skills. It provides **original free resources and curated project pathways** for students, early-career security professionals, educators, and community contributors.
@@ -34,6 +44,10 @@ It is a discovery and learning resource — **not** a mirror of paid courses, a 
 | 🧰 **Practical Projects** | Foundation, Academy-aligned and community projects | [Explore projects](./projects/README.md) |
 | 💼 **Career Guidance** | Resume, LinkedIn, portfolio and interview preparation | [Explore guidance](./guidance/README.md) |
 | 🧭 **Career Roadmaps** | Paths toward security analyst, pentester, architect and cloud roles | [View roadmaps](./career-roadmaps/README.md) |
+| 🚀 **Getting Started** | A beginner-friendly first-week plan and learning journey | [Start here](./getting-started/README.md) |
+| 💻 **Student Support** | Learning without expensive laptops or complex VM setup | [Get support](./student-support/README.md) |
+| 🏢 **Industry Practice** | Connect labs to real cybersecurity service workflows | [Skills to services](./industry-practice/README.md) |
+| 🏅 **Certification Plan** | Choose relevant credentials and assess readiness | [Plan your certification](./certification-plan/README.md) |
 | 🤝 **Community** | Free learning resources and ways to contribute | [Join the community](./community/README.md) |
 
 > **Learning model:** Understand the concept → follow a guide → practice within an authorized lab → document observations → assess your understanding.
@@ -54,7 +68,13 @@ The previous sample projects were retired as outdated. We are rebuilding the pub
 | [Academy projects](./projects/academy-projects/README.md) | Applied work connected to Academy learning areas |
 | [Community projects](./projects/community-projects/README.md) | Original submissions reviewed for educational quality and safety |
 
-**Current status:** These directories are planning and guidance resources, not a claim that runnable projects have been released.
+**Available now:** [Foundation Project 01 — Linux Security Fundamentals](./projects/foundation-projects/linux-security-fundamentals/README.md) is a complete, local and reproducible beginner exercise. Other listed projects are still proposed.
+
+## From student labs to professional skills
+
+In a safe training environment, students can learn to scope a task, observe system behavior, document a finding, propose a remediation, and retest it. These skills relate to professional workflows associated with [GoHackersCloud Cybersecurity Services](https://gohackerscloud.com/cybersecurity-services).
+
+See [our industry-practice guide](./industry-practice/README.md) for examples. **Training exercises are not client engagements** and do not imply learners have delivered paid services.
 
 ## Choose your learning pathway
 
