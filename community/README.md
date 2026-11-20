@@ -36,3 +36,10 @@ Start with [the student support hub](../student-support/README.md), [Foundation]
 - [Student Portfolio Toolkit](../student-portfolio/README.md) — create a clear, privacy-safe project report before sharing.
 
 **Before publishing anyone's story:** read the [publication policy](./student-stories/PUBLICATION-POLICY.md). Public GitHub pull requests are **not** a suitable collection channel for private consent records, identity details or verification documents.
+
+
+## Community Showcase v1
+
+The [GHC Community Showcase](./showcase/README.md) provides a public home for **real, reviewed learner projects**, not invented testimonials. Students can follow the [submission guide](./showcase/SUBMIT-A-PROJECT.md) and use the [showcase template](./showcase/PROJECT-SHOWCASE-TEMPLATE.md) for original, sanitized work.
+
+For an identifiable student success story, use the separate [Student Stories](./student-stories/README.md) publication process and submit private verification/consent only through an approved private channel.
