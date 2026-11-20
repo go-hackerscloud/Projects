@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🛡️ GoHackersCloud Learning Hub
+# 🛡️ Learn with GHC
 
 ### Learn. Practice. Assess. Advance.
 
-**Free cybersecurity projects, foundation guides, career roadmaps, and learning resources — connected to GoHackersCloud Academy and hands-on labs.**
+**Free cybersecurity, cloud and AI learning resources — practical projects, Academy and Foundation pathways, assessments, and professional career guidance.**
 
 [![Learning resources](https://img.shields.io/badge/Resources-Learning_Hub-1663b7)](./foundation/README.md)
 [![Hands-on Labs](https://img.shields.io/badge/Practice-GHC_Labs-0b7285)](./ghc-labs/README.md)
@@ -18,7 +18,7 @@
 
 ## Welcome
 
-GoHackersCloud helps learners connect cybersecurity concepts to practical skills. This public hub provides **original free resources and sample projects** for students, early-career security professionals, educators, and community contributors.
+Learn with GHC is GoHackersCloud's public learning hub, helping learners connect cybersecurity concepts to practical skills. It provides **original free resources and sample projects** for students, early-career security professionals, educators, and community contributors.
 
 It is a discovery and learning resource — **not** a mirror of paid courses, a live lab deployment repository, or a repository containing production systems.
 
@@ -31,10 +31,18 @@ It is a discovery and learning resource — **not** a mirror of paid courses, a 
 | 💻 **GHC Labs** | Browser-based practice concepts and authorized lab examples | [Labs overview](./ghc-labs/README.md) |
 | 📚 **Courses** | Certification-oriented and career-oriented learning options | [Explore courses](./courses/README.md) |
 | 📝 **Test Engine** | Practice strategy and original sample questions | [Explore assessments](./test-engine/README.md) |
+| 🧰 **Practical Projects** | Foundation, Academy-aligned and community projects | [Explore projects](./projects/README.md) |
+| 💼 **Career Guidance** | Resume, LinkedIn, portfolio and interview preparation | [Explore guidance](./guidance/README.md) |
 | 🧭 **Career Roadmaps** | Paths toward security analyst, pentester, architect and cloud roles | [View roadmaps](./career-roadmaps/README.md) |
 | 🤝 **Community** | Free learning resources and ways to contribute | [Join the community](./community/README.md) |
 
 > **Learning model:** Understand the concept → follow a guide → practice within an authorized lab → document observations → assess your understanding.
+
+## Projects and learning tracks
+
+Use the [Practical Projects directory](./projects/README.md) to explore [Foundation projects](./projects/foundation-projects/README.md), [Academy-aligned projects](./projects/academy-projects/README.md), and [Community projects](./projects/community-projects/README.md).
+
+For career preparation, visit the [Guidance directory](./guidance/README.md): resume optimization, LinkedIn optimization, interview preparation, and portfolio building.
 
 ## Beginner-friendly example projects
 
@@ -57,6 +65,8 @@ These five original folders have been preserved from the initial `Projects` repo
 **Want practical security experience?** Explore [sample projects](#beginner-friendly-example-projects), then review [GHC Labs](./ghc-labs/README.md) and [Academy](./academy/README.md).
 
 **Preparing for certification?** Browse [courses](./courses/README.md) and the [assessment guide](./test-engine/README.md). Certification names are used for educational orientation; no vendor endorsement is implied.
+
+**Preparing for your next role?** Explore [career guidance](./guidance/README.md) and publish evidence-based [project write-ups](./guidance/portfolio-building/README.md).
 
 **Teaching or supporting learners?** Use our public guides, propose improvements, and [contribute](./CONTRIBUTING.md).
 
