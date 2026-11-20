@@ -17,3 +17,10 @@ Start by opening an issue and reading [contribution guidelines](../../CONTRIBUTI
 No third-party copyrighted course materials, leaked exam questions, production credentials, or unauthorized scan reports.
 
 [All projects](../README.md) · [Community](../../community/README.md)
+
+
+## How to submit an original community project
+
+Follow the [Community Contributions guide](../../community/contribute/README.md), use the [Portfolio Toolkit](../../student-portfolio/README.md) to prepare your project, and ensure all practice is permitted and all screenshots are sanitized.
+
+You may separately propose a [Student Story](../../community/student-stories/README.md) about your experience. Being featured requires consent and editorial verification; a merged project does not automatically become a public testimonial.

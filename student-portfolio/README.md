@@ -40,3 +40,8 @@ This collection provides downloadable **Markdown templates** and repeatable revi
 This accurately communicates skill and scope without claiming nonexistent work experience.
 
 [Learn with GHC](../README.md) · [Career guidance](../guidance/README.md) · [Industry practice](../industry-practice/README.md)
+
+
+## Share your progress voluntarily
+
+If you want to tell other learners how you approached a project, review the [Student Stories submission guidance](../community/student-stories/README.md). Keep personal details and consent evidence out of public GitHub issues and pull requests. An approved portfolio does not automatically authorize its use in advertisements or testimonials.
