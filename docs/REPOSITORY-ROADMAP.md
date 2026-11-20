@@ -15,16 +15,9 @@ This is a proposed publication plan, not a statement that every repository exist
 
 Keep private: authentication, provisioning, deployment secrets, paid lesson content, and licensed question banks.
 
-## Rename readiness
+## Repository naming and publishing hygiene
 
-After the Learning Hub pull request is approved and merged:
-1. Rename `Projects` to `gohackerscloud-learning-hub` using GitHub repository settings.
-2. Confirm GitHub redirects and update cloning/remotes, pinned repositories, documentation, and external links.
-3. Review repository description, topics, website field and visual identity.
-4. Check public visibility and ensure no sensitive assets were introduced.
-
-The rename is an administrative change separate from this documentation PR.
-
+The repository has already been renamed to `learn-with-ghc`. Keep navigation, code references, public descriptions and profile links aligned with that name. Validate links before merging future documentation changes.
 
 ## Current status — 20 November 2026
 
