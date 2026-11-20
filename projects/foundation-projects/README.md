@@ -1,19 +1,23 @@
 # Foundation Projects
 
-Hands-on beginner projects to reinforce concepts from [GHC Foundation](https://foundation.gohackerscloud.com).
+Build confidence through small, practical exercises that reinforce [GHC Foundation](https://foundation.gohackerscloud.com) concepts.
 
-## Suggested starter projects
+## Proposed first projects
 
-1. **Linux SSH configuration review** — identify safe configuration defaults in a machine you administer. [Existing SSH hardening project](../../01-SSH-Hardening-Lab/).
-2. **Local Python networking exercise** — learn sockets and basic reachability in an isolated lab. [Existing Python scanner project](../../03-Network-Scanner-Python/).
-3. **HTTP response notebook** — document response codes and headers from a localhost demo server.
-4. **Linux log-reading exercise** — inspect synthetic system logs and write a short findings summary.
-5. **Cloud architecture sketch** — draw a simple two-tier application and explain each security boundary.
+| Project | Learning goal | Required environment |
+| --- | --- | --- |
+| Linux permissions and users | Explain file permissions, ownership, least privilege | Local Linux VM/container |
+| HTTP response explorer | Observe status codes, headers and redirects | Local test server |
+| Python network fundamentals | Understand TCP connections within a controlled scope | Local isolated network |
+| Linux log analysis | Identify events and explain their sequence | Synthetic log fixture |
+| Cloud security architecture sketch | Describe a two-tier system and security boundaries | Diagramming tool; no paid cloud account required |
 
-Each proposed project needs its own reviewed instructions before being advertised as a completed lab.
+**Publication status:** These are a proposed curriculum, not runnable projects. Each will receive its own guide, commands and reviewed assets when completed.
 
-## For each submission
+## How a learner should submit evidence
 
-Include an objective, prerequisites, expected learning outcome, safe scope, reproducible steps, and reflection questions.
+For each completed exercise, summarize the objective, scope, exact environment, observations, screenshots or sanitized command output, and lessons learned.
+
+Only test systems you own or have explicit authorization to assess.
 
 [All projects](../README.md) · [Foundation overview](../../foundation/README.md)
