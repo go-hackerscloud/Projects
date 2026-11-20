@@ -18,7 +18,7 @@
 
 ## Welcome
 
-Learn with GHC is GoHackersCloud's public learning hub, helping learners connect cybersecurity concepts to practical skills. It provides **original free resources and sample projects** for students, early-career security professionals, educators, and community contributors.
+Learn with GHC is GoHackersCloud's public learning hub, helping learners connect cybersecurity concepts to practical skills. It provides **original free resources and curated project pathways** for students, early-career security professionals, educators, and community contributors.
 
 It is a discovery and learning resource — **not** a mirror of paid courses, a live lab deployment repository, or a repository containing production systems.
 
@@ -44,25 +44,23 @@ Use the [Practical Projects directory](./projects/README.md) to explore [Foundat
 
 For career preparation, visit the [Guidance directory](./guidance/README.md): resume optimization, LinkedIn optimization, interview preparation, and portfolio building.
 
-## Beginner-friendly example projects
+## Build your practical project portfolio
 
-These five original folders have been preserved from the initial `Projects` repository.
+The previous sample projects were retired as outdated. We are rebuilding the public project collection with reviewed, reproducible and security-conscious examples.
 
-| Project | Topic | Explore |
-| --- | --- | --- |
-| SSH Hardening Lab | Linux and secure configuration | [01 — SSH Hardening](./01-SSH-Hardening-Lab/) |
-| AWS Two-Tier Web App | Cloud architecture | [02 — AWS Two-Tier Web App](./02-AWS-2Tier-Web-App/) |
-| Python Network Scanner | Python and networking | [03 — Network Scanner](./03-Network-Scanner-Python/) |
-| AI Resume Summary CLI | AI and command-line development | [04 — AI Resume CLI](./04-AI-Resume-Summary-CLI/) |
-| Serverless CI/CD | Cloud development and automation | [05 — Serverless CI/CD](./05-Serverless-CI-CD/) |
+| Pathway | What to expect |
+| --- | --- |
+| [Foundation projects](./projects/foundation-projects/README.md) | Beginner exercises in Linux, networking, Python and cloud concepts |
+| [Academy projects](./projects/academy-projects/README.md) | Applied work connected to Academy learning areas |
+| [Community projects](./projects/community-projects/README.md) | Original submissions reviewed for educational quality and safety |
 
-> Follow each project's documentation and safety requirements. Only test systems you own or have explicit permission to assess.
+**Current status:** These directories are planning and guidance resources, not a claim that runnable projects have been released.
 
 ## Choose your learning pathway
 
 **New to cybersecurity?** Start with [Foundation](./foundation/README.md) and the [career roadmaps](./career-roadmaps/README.md).
 
-**Want practical security experience?** Explore [sample projects](#beginner-friendly-example-projects), then review [GHC Labs](./ghc-labs/README.md) and [Academy](./academy/README.md).
+**Want practical security experience?** Explore [project pathways](./projects/README.md), then review [GHC Labs](./ghc-labs/README.md) and [Academy](./academy/README.md).
 
 **Preparing for certification?** Browse [courses](./courses/README.md) and the [assessment guide](./test-engine/README.md). Certification names are used for educational orientation; no vendor endorsement is implied.
 
